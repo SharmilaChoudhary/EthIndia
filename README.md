@@ -5,6 +5,7 @@ Deployed VotingDao on  Mantle
 https://explorer.testnet.mantle.xyz/tx/0x7556a36524f7bdf05cd190b08cf6bee3f75a85255e0e33c05d96d257fe8bc949
 
 Deployed VotingDao on Arbitrum 
+
 https://sepolia-explorer.arbitrum.io/tx/0xff35f6e58f6f3638528e512622b557745c4baad4f7a7387e50cac0e1ae6c415
 
 Deployed VotingDao on Linea
